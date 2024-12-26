@@ -62,4 +62,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 # RESULTS
 
 Thus JK flipflop using verilog was implemented and validated their
- functionality using their function tableS
+ functionality using their function tables
